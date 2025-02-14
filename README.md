@@ -5,13 +5,11 @@
 [**Mariana Solano Pineda**](https://www.linkedin.com/in/mariana-solano-pineda/)
 Estudiante de economía y administración de empresas Universidad de Los Andes
 
-**Helen Margfoy Contreras**
-Estudiante
-- [LinkedIn](https://www.linkedin.com/in/helenmargfoy/)
+[**Helen Margfoy Contreras**](https://www.linkedin.com/in/helenmargfoy/)
+Estudiante de economía Universidad de Los Andes
 
-**Cristian Oviedo**
-Estudiante 
-- [LinkedIn](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
+[**Cristian Oviedo**](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
+Estudiante de economía Universidad de Los Andes
 
 ## 📚 Descripción
 
