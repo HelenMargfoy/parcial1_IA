@@ -2,21 +2,16 @@
 
 ## Autores
 
-**Mariana Solano Pineda**
+[**Mariana Solano Pineda**](https://www.linkedin.com/in/mariana-solano-pineda/)
 Estudiante de economía y administración de empresas Universidad de Los Andes
-- [LinkedIn](https://www.linkedin.com/in/mariana-solano-pineda/)
+
 **Helen Margfoy Contreras**
 Estudiante
 - [LinkedIn](https://www.linkedin.com/in/helenmargfoy/)
+
 **Cristian Oviedo**
 Estudiante 
 - [LinkedIn](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
-**Manuela**
-Estudiante ds
-- [LinkedIn]()
-**Darío Montoya**
-Estudiante 
-- [LinkedIn]()
 
 ## 📚 Descripción
 
