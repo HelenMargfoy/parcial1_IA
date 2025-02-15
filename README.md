@@ -6,7 +6,7 @@
 Estudiante de economía y administración de empresas Universidad de Los Andes
 
 [**Helen Margfoy Contreras**](https://www.linkedin.com/in/helenmargfoy/)
-Estudiante de Economía y Gbierno y asuntos Públicos  Universidad de Los Andes
+Estudiante de Economía y Gobierno y asuntos Públicos  Universidad de Los Andes
 
 [**Cristian Oviedo**](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
 Estudiante de economía Universidad de Los Andes
