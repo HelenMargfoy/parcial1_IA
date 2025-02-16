@@ -11,6 +11,9 @@ Estudiante de Economía y Gobierno y asuntos Públicos  Universidad de Los Andes
 [**Cristian Oviedo**](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
 Estudiante de economía Universidad de Los Andes
 
+**Darío Montoya Loor**
+Estudiante de economía y gobierno Universidad de Los Andes
+
 ## 📚 Descripción
 
 Este proyecto aplica algoritmos de **aprendizaje automático clásico** para predecir si una casa tendrá **vista al mar** o no, basado en sus características. Se implementan y comparan varios modelos, incluidos **regresión logística**, **SVM**, **K-means** y **algoritmos basados en árboles**. 🌊🏡
