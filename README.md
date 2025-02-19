@@ -14,21 +14,21 @@ Estudiante de economía Universidad de Los Andes
 [**Tomás Acevedo Echeverría**](https://www.linkedin.com/in/tom%C3%A1s-acevedo-echeverr%C3%ADa-913a35212?trk=contact-info)
 Estudiante de economía Universidad de Los Andes
 
-[**Manuela Pineda**]()
+[**Manuela Pineda**](https://www.linkedin.com/in/manuela-pineda-zambrano-46b62a351/details/education/)
 Estudiante de economía Universidad de Los Andes
 
-**Darío Montoya Loor**
+[**Darío Montoya Loor**](https://www.linkedin.com/in/dario-montoya-532071227/)
 Estudiante de economía y gobierno Universidad de Los Andes
 
 ## 📚 Descripción
 
-Este proyecto aplica algoritmos de **aprendizaje automático clásico** para predecir si una casa tendrá **vista al mar** o no, basado en sus características. Se implementan y comparan varios modelos, incluidos **regresión logística**, **SVM**, **K-means** y **algoritmos basados en árboles**. 🌊🏡
+Este proyecto aplica algoritmos de **aprendizaje automático clásico** para predecir si una casa tendrá precio alto o bajo, basado en sus características. Se implementan y comparan varios modelos, incluidos **logit básico**, **lasso** y **ridge**. 🏡
 
 ## 🎯 Planteamiento del Problema
 
-El problema que aborda este proyecto es predecir si una casa tendrá **vista al mar** (sí o no) en función de sus características. Este es un **problema supervisado** de **clasificación binaria**, ya que la variable objetivo (`waterfront`) es una variable categórica que toma dos valores: **1** si la casa tiene vista al mar y **0** si no la tiene. 🎯
+El problema que aborda este proyecto es predecir si una casa tendrá precio alto o bajo en función de sus características. Este es un **problema supervisado** de **clasificación binaria**, ya que la variable objetivo (`price_category`) es una variable categórica que toma dos valores: **1** si la casa tiene precio alto y **0** si tiene precio bajo. 🎯
 
-El proyecto tiene como meta determinar qué modelo de aprendizaje automático predice mejor si una casa tiene vista al mar, basado en sus características estructurales y de ubicación. 🌊
+El proyecto tiene como meta determinar qué modelo de aprendizaje automático predice mejor si una casa tiene precio alto, basado en sus características estructurales y de ubicación.
 
 ## 📂 Contenido del Repositorio
 
@@ -39,10 +39,9 @@ El proyecto tiene como meta determinar qué modelo de aprendizaje automático pr
 
 A continuación, se describen los algoritmos implementados en este proyecto:
 
-1. **Regresión Logística**: Aunque es un modelo de clasificación binaria, se adapta para predecir si una casa pertenece a la categoría de precio alto o bajo.
-2. **Support Vector Machines (SVM)**: Algoritmo que busca encontrar el hiperplano óptimo que divide los datos en clases.
-3. **K-Means**: Un algoritmo de agrupamiento no supervisado utilizado para agrupar las casas en clústeres según sus características. Este enfoque puede ayudar a identificar categorías de precios.
-4. **Árboles de Decisión y Random Forest**: Algoritmos basados en árboles que aprenden a predecir el precio de una casa según reglas extraídas de los datos.
+1. **Logit Básico (Regresión Logística)**: Es un modelo de clasificación binaria que se adapta para predecir si una casa tiene un precio alto o bajo, basado en las características proporcionadas. Utiliza una función sigmoide para transformar las predicciones en probabilidades, y en este caso, la salida es un valor entre 0 y 1 que indica la probabilidad de que una casa pertenezca a la categoría de precio alto.
+2. **Lasso (Least Absolute Shrinkage and Selection Operator)**: Es un modelo de regresión lineal regularizada que agrega una penalización sobre los coeficientes del modelo. Esto ayuda a reducir la magnitud de los coeficientes de las variables menos relevantes, forzándolos incluso a cero en algunos casos, lo cual realiza una selección de características. En el contexto de este proyecto, Lasso permite identificar las características más importantes que afectan el precio de la casa, evitando el sobreajuste y mejorando la generalización del modelo.
+3. **Ridge**: Similar a Lasso, Ridge es una técnica de regresión lineal regularizada. Sin embargo, a diferencia de Lasso, Ridge penaliza los coeficientes sin forzarlos a cero, lo que significa que todas las características contribuyen al modelo, pero con coeficientes más pequeños. Este enfoque es útil cuando se tienen muchas variables y se desea evitar el sobreajuste sin eliminar ninguna de las características.
 
 ## 🔍 Variables de la base de datos
  
@@ -66,6 +65,7 @@ A continuación se describen las variables del conjunto de datos utilizado en es
 16. **city**: Ciudad donde se encuentra la casa (tipo de dato: texto).
 17. **statezip**: Código postal y estado (tipo de dato: texto).
 18. **country**: País donde se encuentra la casa (valor fijo "USA"; tipo de dato: texto).
+19. **price_category**: Se añade a la base de datos creando una variable dummy a partir de la media del precio de las casas (1=precio alto, 0)=precio bajo)
 
 ## 📄 Licencia
 
