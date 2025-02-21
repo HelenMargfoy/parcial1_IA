@@ -14,9 +14,6 @@ Estudiante de economía Universidad de Los Andes
 [**Tomás Acevedo Echeverría**](https://www.linkedin.com/in/tom%C3%A1s-acevedo-echeverr%C3%ADa-913a35212?trk=contact-info)
 Estudiante de economía Universidad de Los Andes
 
-[**Manuela Pineda**](https://www.linkedin.com/in/manuela-pineda-zambrano-46b62a351/details/education/)
-Estudiante de economía Universidad de Los Andes
-
 [**Darío Montoya Loor**](https://www.linkedin.com/in/dario-montoya-532071227/)
 Estudiante de economía y gobierno Universidad de Los Andes
 
