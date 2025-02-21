@@ -1,4 +1,4 @@
-# 🏠 Predicción de Vista al Mar de Casas con Algoritmos de Aprendizaje Automático Clásico
+# 🏠 Predicción de precios altos y bajos de Casas con Algoritmos de Aprendizaje Automático Clásico
 
 ## Autores
 
